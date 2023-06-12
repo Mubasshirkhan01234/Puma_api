@@ -1,6 +1,6 @@
 * Puma Website
 
-//PAGE 1
+---///PAGE 1///---
 
 > List of category
 * https://puma-i1u3.onrender.com/category
@@ -24,7 +24,7 @@
 * https://puma-i1u3.onrender.com/sports
 
 
-//PAGE 2
+---///PAGE 2///---
 
 > List of merchandise wrt to Product type
 
@@ -113,7 +113,7 @@
 * https://puma-i1u3.onrender.com/sports_size?sub_category_id=11&&size=6
 * https://puma-i1u3.onrender.com/sports_size?sub_category_id=12&&size=6
 
-//PAGE 3
+---///PAGE 3///---
 
 > Details of selected merchandise
 
@@ -132,7 +132,7 @@
 //Sports
 * https://puma-i1u3.onrender.com/sports_wear_details?sub_category_id=11&&merchandise_id=1
 
-//PAGE 4
+---///PAGE 4///---
 
 > Details of all selected merchandise
 * https://puma-i1u3.onrender.com/selected_merchandise {"id":[1,2,3,4]}
@@ -157,7 +157,7 @@
     "status": "order placed"
   }
 
-//PAGE 5
+---///PAGE 5///---
 
 > List of all Orders
 * https://puma-i1u3.onrender.com/orders
