@@ -1,117 +1,123 @@
+* Puma Website
+
 //PAGE 1
+
 > List of category
-* http://localhost:2121/category
+* https://puma-i1u3.onrender.com/category
 
 > List of sub_category
-* http://localhost:2121/sub_category
+* https://puma-i1u3.onrender.com/sub_category
 
 > List of Accessories 
-* http://localhost:2121/accessories
+* https://puma-i1u3.onrender.com/accessories
 
 > List of Women wear
-* http://localhost:2121/women_wear
+* https://puma-i1u3.onrender.com/women_wear
 
 > List of Men wear
-* http://localhost:2121/men_wear
+* https://puma-i1u3.onrender.com/men_wear
 
 > List of Kids wear
-* http://localhost:2121/kids_wear
+* https://puma-i1u3.onrender.com/kids_wear
 
 > List of Sports wear
-* http://localhost:2121/sports
+* https://puma-i1u3.onrender.com/sports
 
 
 //PAGE 2
+
 > List of merchandise wrt to Product type
 
 //Accessories
-* http://localhost:2121/accessories?sub_category_id=1
-* http://localhost:2121/accessories?sub_category_id=2
-* http://localhost:2121/accessories?sub_category_id=3
-* http://localhost:2121/accessories?sub_category_id=4
+* https://puma-i1u3.onrender.com/accessories?sub_category_id=1
+* https://puma-i1u3.onrender.com/accessories?sub_category_id=2
+* https://puma-i1u3.onrender.com/accessories?sub_category_id=3
+* https://puma-i1u3.onrender.com/accessories?sub_category_id=4
 //Women wear(shoes)
-* http://localhost:2121/women_wear?Shoes_category_id=1
-* http://localhost:2121/women_wear?Shoes_category_id=2
-* http://localhost:2121/women_wear?Shoes_category_id=3
+* https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=1
+* https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=2
+* https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=3
 //Women wear(clothing)
-* http://localhost:2121/women_wear?Clothing_category_id=1
-* http://localhost:2121/women_wear?Clothing_category_id=2
-* http://localhost:2121/women_wear?Clothing_category_id=3
-* http://localhost:2121/women_wear?Clothing_category_id=4
-* http://localhost:2121/women_wear?Clothing_category_id=5
-* http://localhost:2121/women_wear?Clothing_category_id=6
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=1
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=2
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=3
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=4
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=5
+* https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=6
 //Men wear(shoes)
-* http://localhost:2121/men_wear?Shoes_category_id=4
-* http://localhost:2121/men_wear?Shoes_category_id=5
-* http://localhost:2121/men_wear?Shoes_category_id=6
+* https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=4
+* https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=5
+* https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=6
 //men wear(clothing)
-* http://localhost:2121/men_wear?Clothing_category_id=7
-* http://localhost:2121/men_wear?Clothing_category_id=8
-* http://localhost:2121/men_wear?Clothing_category_id=9
-* http://localhost:2121/men_wear?Clothing_category_id=10
-* http://localhost:2121/men_wear?Clothing_category_id=11
+* https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=7
+* https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=8
+* https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=9
+* https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=10
+* https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=11
 //Kids wear(shoes)
-* http://localhost:2121/kids_wear?sub_category_id=9
+* https://puma-i1u3.onrender.com/kids_wear?sub_category_id=9
 //Kids wear(clothing)
-* http://localhost:2121/kids_wear?sub_category_id=10
+* https://puma-i1u3.onrender.com/kids_wear?sub_category_id=10
 //Sports wear(running)
-* http://localhost:2121/sports?sub_category_id=11
+* https://puma-i1u3.onrender.com/sports?sub_category_id=11
 //Sports wear(training)
-* http://localhost:2121/sports?sub_category_id=12
+* https://puma-i1u3.onrender.com/sports?sub_category_id=12
 //Sports wear(cricket)
-* http://localhost:2121/sports?sub_category_id=13
+* https://puma-i1u3.onrender.com/sports?sub_category_id=13
 //Sports wear(football)
-* http://localhost:2121/sports?sub_category_id=14
+* https://puma-i1u3.onrender.com/sports?sub_category_id=14
 
 
 > List of merchandise wrt to Price
 
 //Accessories
-* http://localhost:2121/filter/1?lcost=1000&hcost=2000
+* https://puma-i1u3.onrender.com/filter/1?lcost=1000&hcost=2000
 //Women wear
-* http://localhost:2121/filter2/2?lcost=1000&hcost=5000
+* https://puma-i1u3.onrender.com/filter2/2?lcost=1000&hcost=5000
 //Men wear
-* http://localhost:2121/filter3/3?lcost=1000&hcost=5000
+* https://puma-i1u3.onrender.com/filter3/3?lcost=1000&hcost=5000
 //Kids wear
- http://localhost:2121/filter4/4?lcost=1000&hcost=5000
+ https://puma-i1u3.onrender.com/filter4/4?lcost=1000&hcost=5000
 //Sports
-* http://localhost:2121/filter5/5?lcost=1000&hcost=5000
+* https://puma-i1u3.onrender.com/filter5/5?lcost=1000&hcost=5000
 
 > List of merchandise wrt to Size
 
 //Women wear
-* http://localhost:2121/women_wear_shoesize?sub_category_id=5&&size=6
-* http://localhost:2121/women_wear_clothsize?sub_category_id=6&&size=M
+* https://puma-i1u3.onrender.com/women_wear_shoesize?sub_category_id=5&&size=6
+* https://puma-i1u3.onrender.com/women_wear_clothsize?sub_category_id=6&&size=M
 //Men wear
-* http://localhost:2121/men_wear_shoesize?sub_category_id=7&&size=6
-* http://localhost:2121/men_wear_clothsize?sub_category_id=8&&size=M
+* https://puma-i1u3.onrender.com/men_wear_shoesize?sub_category_id=7&&size=6
+* https://puma-i1u3.onrender.com/men_wear_clothsize?sub_category_id=8&&size=M
 //Kids wear
-* http://localhost:2121/kids_wear_shoesize?sub_category_id=9&&size=1
-* http://localhost:2121/kids_wear_clothsize?sub_category_id=10&&size=M
+* https://puma-i1u3.onrender.com/kids_wear_shoesize?sub_category_id=9&&size=1
+* https://puma-i1u3.onrender.com/kids_wear_clothsize?sub_category_id=10&&size=M
 //Sports wear
-* http://localhost:2121/sports_size?sub_category_id=11&&size=6
-* http://localhost:2121/sports_size?sub_category_id=12&&size=6
+* https://puma-i1u3.onrender.com/sports_size?sub_category_id=11&&size=6
+* https://puma-i1u3.onrender.com/sports_size?sub_category_id=12&&size=6
 
 //PAGE 3
+
 > Details of selected merchandise
 
 //Accessories
-* http://localhost:2121/accessory_details?sub_category_id=1&&merchandise_id=2
+* https://puma-i1u3.onrender.com/accessory_details?sub_category_id=1&&merchandise_id=2
 //Women wear
-* http://localhost:2121/women_wear_details?sub_category_id=5&&merchandise_id=1
+* https://puma-i1u3.onrender.com/women_wear_details?sub_category_id=5&&merchandise_id=1
 //Men wear
-* http://localhost:2121/men_wear_details?sub_category_id=7&&merchandise_id=1
+* https://puma-i1u3.onrender.com/men_wear_details?sub_category_id=7&&merchandise_id=1
 //Kids wear
-* http://localhost:2121/kids_wear_details?sub_category_id=9&&merchandise_id=1
+* https://puma-i1u3.onrender.com/kids_wear_details?sub_category_id=9&&merchandise_id=1
 //Sports
-* http://localhost:2121/sports_wear_details?sub_category_id=11&&merchandise_id=1
+* https://puma-i1u3.onrender.com/sports_wear_details?sub_category_id=11&&merchandise_id=1
 
 //PAGE 4
+
 > Details of all selected merchandise
-* http://localhost:2121/selected_merchandise {"id":[1,2,3,4]}
+* https://puma-i1u3.onrender.com/selected_merchandise {"id":[1,2,3,4]}
 
 > Place order
-* http://localhost:2121/placeOrder  {
+* https://puma-i1u3.onrender.com/placeOrder  {
     "_id": "6486a58d0e94e8a37c7a1a2a",
     "order_id": 1,
     "custome_name": "Mubasshir Khan",
@@ -131,16 +137,17 @@
   }
 
 //PAGE 5
+
 > List of all Orders
-* http://localhost:2121/orders
+* https://puma-i1u3.onrender.com/orders
 
 > Update order details
-* http://localhost:2121/updateOrder {
+* https://puma-i1u3.onrender.com/updateOrder {
     "_id": "6486a58d0e94e8a37c7a1a2a",
     "status": "Out for delivery"
 }
 
 > Delete order
-* http://localhost:2121/deleteOrder
+* https://puma-i1u3.onrender.com/deleteOrder
 
 <!-- > Payment Gateway -->
