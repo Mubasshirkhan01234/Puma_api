@@ -33,10 +33,12 @@
 * https://puma-i1u3.onrender.com/accessories?sub_category_id=2
 * https://puma-i1u3.onrender.com/accessories?sub_category_id=3
 * https://puma-i1u3.onrender.com/accessories?sub_category_id=4
+
 //Women wear(shoes)
 * https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=1
 * https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=2
 * https://puma-i1u3.onrender.com/women_wear?Shoes_category_id=3
+
 //Women wear(clothing)
 * https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=1
 * https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=2
@@ -44,26 +46,34 @@
 * https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=4
 * https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=5
 * https://puma-i1u3.onrender.com/women_wear?Clothing_category_id=6
+
 //Men wear(shoes)
 * https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=4
 * https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=5
 * https://puma-i1u3.onrender.com/men_wear?Shoes_category_id=6
+
 //men wear(clothing)
 * https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=7
 * https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=8
 * https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=9
 * https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=10
 * https://puma-i1u3.onrender.com/men_wear?Clothing_category_id=11
+
 //Kids wear(shoes)
 * https://puma-i1u3.onrender.com/kids_wear?sub_category_id=9
+
 //Kids wear(clothing)
 * https://puma-i1u3.onrender.com/kids_wear?sub_category_id=10
+
 //Sports wear(running)
 * https://puma-i1u3.onrender.com/sports?sub_category_id=11
+
 //Sports wear(training)
 * https://puma-i1u3.onrender.com/sports?sub_category_id=12
+
 //Sports wear(cricket)
 * https://puma-i1u3.onrender.com/sports?sub_category_id=13
+
 //Sports wear(football)
 * https://puma-i1u3.onrender.com/sports?sub_category_id=14
 
@@ -72,12 +82,16 @@
 
 //Accessories
 * https://puma-i1u3.onrender.com/filter/1?lcost=1000&hcost=2000
+
 //Women wear
 * https://puma-i1u3.onrender.com/filter2/2?lcost=1000&hcost=5000
+
 //Men wear
 * https://puma-i1u3.onrender.com/filter3/3?lcost=1000&hcost=5000
+
 //Kids wear
  https://puma-i1u3.onrender.com/filter4/4?lcost=1000&hcost=5000
+
 //Sports
 * https://puma-i1u3.onrender.com/filter5/5?lcost=1000&hcost=5000
 
@@ -86,12 +100,15 @@
 //Women wear
 * https://puma-i1u3.onrender.com/women_wear_shoesize?sub_category_id=5&&size=6
 * https://puma-i1u3.onrender.com/women_wear_clothsize?sub_category_id=6&&size=M
+
 //Men wear
 * https://puma-i1u3.onrender.com/men_wear_shoesize?sub_category_id=7&&size=6
 * https://puma-i1u3.onrender.com/men_wear_clothsize?sub_category_id=8&&size=M
+
 //Kids wear
 * https://puma-i1u3.onrender.com/kids_wear_shoesize?sub_category_id=9&&size=1
 * https://puma-i1u3.onrender.com/kids_wear_clothsize?sub_category_id=10&&size=M
+
 //Sports wear
 * https://puma-i1u3.onrender.com/sports_size?sub_category_id=11&&size=6
 * https://puma-i1u3.onrender.com/sports_size?sub_category_id=12&&size=6
@@ -102,12 +119,16 @@
 
 //Accessories
 * https://puma-i1u3.onrender.com/accessory_details?sub_category_id=1&&merchandise_id=2
+
 //Women wear
 * https://puma-i1u3.onrender.com/women_wear_details?sub_category_id=5&&merchandise_id=1
+
 //Men wear
 * https://puma-i1u3.onrender.com/men_wear_details?sub_category_id=7&&merchandise_id=1
+
 //Kids wear
 * https://puma-i1u3.onrender.com/kids_wear_details?sub_category_id=9&&merchandise_id=1
+
 //Sports
 * https://puma-i1u3.onrender.com/sports_wear_details?sub_category_id=11&&merchandise_id=1
 
