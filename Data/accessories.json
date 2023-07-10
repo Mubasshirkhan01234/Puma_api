@@ -1,0 +1,408 @@
+
+[
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 1,
+        "merchandise_name": "LIGA-Unisex-Football-Cap (1)",
+        "price": 1299,
+        "image": "https://i.ibb.co/jTpjdb0/LIGA-Unisex-Football-Cap-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 2,
+        "merchandise_name": "LIGA-Unisex-Football-Cap",
+        "price": 1149,
+        "image": "https://i.ibb.co/pfrkg5z/LIGA-Unisex-Football-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 3,
+        "merchandise_name": "Poly-Cotton-Running-Cap",
+        "price": 1149,
+        "image": "https://i.ibb.co/fGvBmPY/Poly-Cotton-Running-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 4,
+        "merchandise_name": "Poly-Cotton-Unisex-Cap",
+        "price": 1049,
+        "image": "https://i.ibb.co/4p2cX4B/Poly-Cotton-Unisex-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 5,
+        "merchandise_name": "PUMA-Classic-Cuff-Beanie",
+        "price": 949,
+        "image": "https://i.ibb.co/Z62SgQP/PUMA-Classic-Cuff-Beanie.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 6,
+        "merchandise_name": "PUMA-Summer-Squeeze-All-Over-Print-Unisex-Cap",
+        "price": 1149,
+        "image": "https://i.ibb.co/wRFTbWW/PUMA-Summer-Squeeze-All-Over-Print-Unisex-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 7,
+        "merchandise_name": "PUMA-x-1DER-women-Flat-Brim-Cap",
+        "price": 1049,
+        "image": "https://i.ibb.co/9YGXNbp/PUMA-x-1-DER-women-Flat-Brim-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 8,
+        "merchandise_name": "Quick-Dry-Unisex-Running-Cap (1)",
+        "price": 1199,
+        "image": "https://i.ibb.co/TYRdQ1M/Quick-Dry-Unisex-Running-Cap-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 9,
+        "merchandise_name": "Quick-Dry-Unisex-Running-Cap",
+        "price": 1249,
+        "image": "https://i.ibb.co/r42qR5w/Quick-Dry-Unisex-Running-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 10,
+        "merchandise_name": "Running-Ponytail-Women's-Cap",
+        "price": 549,
+        "image": "https://i.ibb.co/93CZKzq/Running-Ponytail-Women-s-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 11,
+        "merchandise_name": "Slouchy-Cuffless-Beanie",
+        "price": 599,
+        "image": "https://i.ibb.co/NLcbrk0/Slouchy-Cuffless-Beanie.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 12,
+        "merchandise_name": "Women's-Ponytail-Cap",
+        "price": 749,
+        "image": "https://i.ibb.co/fGYxvys/Women-s-Ponytail-Cap.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 13,
+        "merchandise_name": "Academy-Backpack",
+        "price": 1299,
+        "image": "https://i.ibb.co/FwnpXBB/Academy-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 14,
+        "merchandise_name": "Downtown-Unisex-Backpack (1)",
+        "price": 1549,
+        "image": "https://i.ibb.co/KXtLzMZ/Downtown-Unisex-Backpack-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 15,
+        "merchandise_name": "Downtown-Unisex-Backpack",
+        "price": 1249,
+        "image": "https://i.ibb.co/Sc7C59G/Downtown-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 16,
+        "merchandise_name": "individualRISE-Football-Backpack",
+        "price": 6949,
+        "image": "https://i.ibb.co/TT8QMxS/individual-RISE-Football-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 17,
+        "merchandise_name": "Patch-Unisex-Backpack (1)",
+        "price": 1949,
+        "image": "https://i.ibb.co/sVHgmBM/Patch-Unisex-Backpack-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 18,
+        "merchandise_name": "Patch-Unisex-Backpack",
+        "price": 1299,
+        "image": "https://i.ibb.co/99gDVgh/Patch-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 19,
+        "merchandise_name": "Phase-Printed-Unisex-Backpack",
+        "price": 1699,
+        "image": "https://i.ibb.co/8NWv5mm/Phase-Printed-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 20,
+        "merchandise_name": "Plus-Unisex-Backpack",
+        "price": 1499,
+        "image": "https://i.ibb.co/DQthr1s/Plus-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 21,
+        "merchandise_name": "PUMA-Buzz-Unisex-Backpack",
+        "price": 1649,
+        "image": "https://i.ibb.co/VQM94Hg/PUMA-Buzz-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 22,
+        "merchandise_name": "PUMA-Orbit-Backpack",
+        "price": 1549,
+        "image": "https://i.ibb.co/PGjcsWN/PUMA-Orbit-Backpack.jpg"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 23,
+        "merchandise_name": "PUMA-Streak-Backpack",
+        "price": 1599,
+        "image": "https://i.ibb.co/WkB0Z2Z/PUMA-Streak-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 2,
+        "sub_category_name": "Backpacks",
+        "merchandise_id": 24,
+        "merchandise_name": "Scuderia-Ferrari-SPTWR-Style-Unisex-Backpack",
+        "price": 1749,
+        "image": "https://i.ibb.co/KDb297P/Scuderia-Ferrari-SPTWR-Style-Unisex-Backpack.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 25,
+        "merchandise_name": "PUMA-Shaker-Unisex-Training-600ml-Water-Bottle",
+        "price": 999,
+        "image": "https://i.ibb.co/qyQtfwJ/PUMA-Shaker-Unisex-Training-600ml-Water-Bottle.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 26,
+        "merchandise_name": "PUMA-Sportstyle-Unisex-Training-600ml-Water-Bottle (1)",
+        "price": 1749,
+        "image": "https://i.ibb.co/x6T2SC0/PUMA-Sportstyle-Unisex-Training-600ml-Water-Bottle-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 27,
+        "merchandise_name": "PUMA-Sportstyle-Unisex-Training-600ml-Water-Bottle",
+        "price": 1249,
+        "image": "https://i.ibb.co/QcQH2BL/PUMA-Sportstyle-Unisex-Training-600ml-Water-Bottle.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 28,
+        "merchandise_name": "PUMA-Training-Performance-Unisex-750ml-Water-Bottle",
+        "price": 949,
+        "image": "https://i.ibb.co/Sm0CwWJ/PUMA-Training-Performance-Unisex-750ml-Water-Bottle.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 29,
+        "merchandise_name": "PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle (1)",
+        "price": 1249,
+        "image": "https://i.ibb.co/MZX9pZj/PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 30,
+        "merchandise_name": "PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle (2)",
+        "price": 1299,
+        "image": "https://i.ibb.co/xmBvy8P/PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle-2.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 31,
+        "merchandise_name": "PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle",
+        "price": 999,
+        "image": "https://i.ibb.co/yXzKKrB/PUMA-Training-Stainless-Steel-Unisex-750ml-Water-Bottle.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 32,
+        "merchandise_name": "Training-1L-Unisex-Sportstyle-Bottle (1)",
+        "price": 499,
+        "image": "https://i.ibb.co/rMbVZYz/Training-1-L-Unisex-Sportstyle-Bottle-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 3,
+        "sub_category_name": "Water Bottles",
+        "merchandise_id": 33,
+        "merchandise_name": "Training-1L-Unisex-Sportstyle-Bottle",
+        "price": 1599,
+        "image": "https://i.ibb.co/rMbVZYz/Training-1-L-Unisex-Sportstyle-Bottle-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 34,
+        "merchandise_name": "one8-Virat-Kohli-Stylised-Unisex-Wallet",
+        "price": 1299,
+        "image": "https://i.ibb.co/8XG1RN6/one8-Virat-Kohli-Stylised-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 35,
+        "merchandise_name": "PUMA-Essential-ll-Unisex-Wallet",
+        "price": 1549,
+        "image": "https://i.ibb.co/VW3pYwV/PUMA-Essential-ll-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 36,
+        "merchandise_name": "PUMA-Metal-Logo-Unisex-Wallet",
+        "price": 1249,
+        "image": "https://i.ibb.co/02v3zyh/PUMA-Metal-Logo-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 37,
+        "merchandise_name": "PUMA-Panel-Unisex-Wallet (1)",
+        "price": 949,
+        "image": "https://i.ibb.co/HVsFkk8/PUMA-Panel-Unisex-Wallet-1.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 38,
+        "merchandise_name": "PUMA-Panel-Unisex-Wallet",
+        "price": 1549,
+        "image": "https://i.ibb.co/5KzHKQb/PUMA-Panel-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 39,
+        "merchandise_name": "PUMA-Phase-AOP-Unisex-Wallet",
+        "price": 1299,
+        "image": "https://i.ibb.co/LpZ28fw/PUMA-Phase-AOP-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 40,
+        "merchandise_name": "PUMA-Phase-Woven-Wallet (1)",
+        "price": 1699,
+        "image": "https://i.ibb.co/bbfvm7q/PUMA-Phase-Woven-Wallet-1.jpg"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 41,
+        "merchandise_name": "PUMA-Phase-Woven-Wallet",
+        "price": 1499,
+        "image": "https://i.ibb.co/ZKv2Bs6/PUMA-Phase-Woven-Wallet.jpg"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 42,
+        "merchandise_name": "PUMA-Phase-Woven-Wallet",
+        "price": 1649,
+        "image": "https://i.ibb.co/tbKCZLd/PUMA-Phase-Woven-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 43,
+        "merchandise_name": "PUMA-Style-l-Unisex-Wallet",
+        "price": 1549,
+        "image": "https://i.ibb.co/0hN463q/PUMA-Style-l-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 44,
+        "merchandise_name": "PUMA-Stylized-Unisex-Wallet",
+        "price": 1599,
+        "image": "https://i.ibb.co/Z6TV9bF/PUMA-Stylized-Unisex-Wallet.webp"
+    },
+    {
+        "category_id": 1,
+        "sub_category_id": 4,
+        "sub_category_name": "Wallets",
+        "merchandise_id": 45,
+        "merchandise_name": "PUMA-x-one8-Premium-Unisex-Wallet",
+        "price": 1749,
+        "image": "https://i.ibb.co/T8DxqrX/PUMA-x-one8-Premium-Unisex-Wallet.webp"
+    }
+]

@@ -1,0 +1,150 @@
+
+
+[
+    {
+        "category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "sub_category_id": 1
+    },
+    {
+        "category_id": 1,
+        "sub_category_name": "Backpacks",
+        "sub_category_id": 2
+    },
+    {
+        "category_id": 1,
+        "sub_category_name": "Water Bottles",
+        "sub_category_id": 3
+    },
+    {
+        "category_id": 1,
+        "sub_category_name": "Wallets",
+        "sub_category_id": 4
+    },
+    {
+        "category_id": 2,
+        "sub_category_name": "Shoes",
+        "sub_category_id": 5,
+        "Shoes_category":[
+            {
+                "Shoes_category_id": 1,
+                "Shoes_category_name": "Sneakers"
+            },
+            {
+                "Shoes_category_id": 2,
+                "Shoes_category_name": "Running"
+            },
+            {
+                "Shoes_category_id": 3,
+                "Shoes_category_name": "Training & Gym"
+            }
+        ]
+    },
+    {
+        "category_id": 2,
+        "sub_category_name": "Clothing",
+        "sub_category_id": 6,
+        "Clothing_category":[
+            {
+                "Clothing_category_id": 1,
+                "Clothing_category_name": "T-Shirt & Tops"
+            },
+            {
+                "Clothing_category_id": 2,
+                "Clothing_category_name": "Jackets"
+            },
+            {
+                "Clothing_category_id": 3,
+                "Clothing_category_name": "Sweatshirts & Hoodies"
+            },
+            {
+                "Clothing_category_id": 4,
+                "Clothing_category_name": "Shorts"
+            },
+            {
+                "Clothing_category_id": 5,
+                "Clothing_category_name": "Pants"
+            },
+            {
+                "Clothing_category_id": 6,
+                "Clothing_category_name": "Dresses & Skirts"
+            }
+        ]
+    },
+    {
+        "category_id": 3,
+        "sub_category_name": "Shoes",
+        "sub_category_id": 7,
+        "Shoes_category":[
+            {
+                "Shoes_category_id": 4,
+                "Shoes_category_name": "Sneakers"
+            },
+            {
+                "Shoes_category_id": 5,
+                "Shoes_category_name": "Running"
+            },
+            {
+                "Shoes_category_id": 6,
+                "Shoes_category_name": "Training & Gym"
+            }
+        ]
+    },
+    {
+        "category_id": 3,
+        "sub_category_name": "Clothing",
+        "sub_category_id": 8,
+        "Clothing_category":[
+            {
+                "Clothing_category_id": 7,
+                "Clothing_category_name": "T-shirts"
+            },
+            {
+                "Clothing_category_id": 8,
+                "Clothing_category_name": "Jackets"
+            },
+            {
+                "Clothing_category_id": 9,
+                "Clothing_category_name": "Sweatshirts & Hoodies"
+            },
+            {
+                "Clothing_category_id": 10,
+                "Clothing_category_name": "Shorts"
+            },
+            {
+                "Clothing_category_id": 11,
+                "Clothing_category_name": "Pants"
+            }
+        ]
+    },
+    {
+        "category_id": 4,
+        "sub_category_name": "Shoes",
+        "sub_category_id": 9
+    },
+    {
+        "category_id": 4,
+        "sub_category_name": "Clothing",
+        "sub_category_id": 10
+    },
+    {
+        "category_id": 5,
+        "sub_category_name": "Running",
+        "sub_category_id": 11
+    },
+    {
+        "category_id": 5,
+        "sub_category_name": "Training",
+        "sub_category_id": 12
+    },
+    {
+        "category_id": 5,
+        "sub_category_name": "Cricket",
+        "sub_category_id": 13
+    },
+    {
+        "category_id": 5,
+        "sub_category_name": "Football",
+        "sub_category_id": 14
+    }
+]

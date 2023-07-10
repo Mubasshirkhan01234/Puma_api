@@ -1,0 +1,243 @@
+
+[
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 1,
+        "merchandise_name": "BMW-M-Motorsport-Drift-Cat-Dec",
+        "price": 1299,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/23V4L2s/BMW-M-Motorsport-Drift-Cat-Dec.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 2,
+        "merchandise_name": "BMW-M-Motorsport-X-Ray-Speed-Kids'-Sneakers",
+        "price": 1549,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/hRJKmkF/BMW-M-Motorsport-X-Ray-Speed-Kids-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 3,
+        "merchandise_name": "BMW-M-Motorsport-X-Ray-Speed-Youth-Sneakers",
+        "price": 1249,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/1rSRxk4/BMW-M-Motorsport-X-Ray-Speed-Youth-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 4,
+        "merchandise_name": "Courtflex-V2-Babies'-Trainers",
+        "price": 6949,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/nj477KV/Courtflex-V2-Babies-Trainers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 5,
+        "merchandise_name": "Cruise-Rider-Peony-Girls-Sneakers",
+        "price": 1949,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/HDDwFDk/Cruise-Rider-Peony-Girls-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 6,
+        "merchandise_name": "Ferrari-Drift-Cat-Decima-Youth-Motorsport-Sneakers",
+        "price": 1299,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/T1wnQz6/Ferrari-Drift-Cat-Decima-Youth-Motorsport-Sneakers.jpg"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 7,
+        "merchandise_name": "Ferrari-Drift-Cat-Decima-Youth-Motorsport-Sneakers",
+        "price": 1699,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/T1wnQz6/Ferrari-Drift-Cat-Decima-Youth-Motorsport-Sneakers.jpg"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 8,
+        "merchandise_name": "Mercedes-AMG-Petronas-F1-Drift-Cat-Decima-Kid's-Sneakers",
+        "price": 1499,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/Q83KP48/Mercedes-AMG-Petronas-F1-Drift-Cat-Decima-Kid-s-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 9,
+        "merchandise_name": "Puma-Tobey-Kids'-Sneakers",
+        "price": 1649,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/KDbgfnb/Puma-Tobey-Kids-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 10,
+        "merchandise_name": "Puma-Tobey-Youth-Sneakers",
+        "price": 1549,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/nkC8bcH/Puma-Tobey-Youth-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 11,
+        "merchandise_name": "Scuderia-Ferrari-Bao-Kart-Toddler-Sneakers",
+        "price": 1599,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/XYXnDjR/Scuderia-Ferrari-Bao-Kart-Toddler-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 9,
+        "sub_category_name": "Shoes",
+        "merchandise_id": 12,
+        "merchandise_name": "X-Ray-Speed-Lite-Youth-Sneakers",
+        "price": 1749,
+        "size": [1,2,3,4,5],
+        "image": "https://i.ibb.co/KKYPzZ4/X-Ray-Speed-Lite-Youth-Sneakers.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 13,
+        "merchandise_name": "Active-Girls-Shorts",
+        "price": 2299,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/PDyfz19/Active-Girls-Shorts.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 14,
+        "merchandise_name": "Alpha-Youth-Crew-Neck-Sweatshirt",
+        "price": 3549,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/1XX3mNc/Alpha-Youth-Crew-Neck-Sweatshirt.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 15,
+        "merchandise_name": "Classics-Super-PUMA-Youth-T-Shirt",
+        "price": 2249,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/YjY7vsn/Classics-Super-PUMA-Youth-T-Shirt.jpg"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 16,
+        "merchandise_name": "Essentials+-Bloom-Logo-Hoodie-Youth",
+        "price": 6949,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/S72tCwZ/Essentials-Bloom-Logo-Hoodie-Youth.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 17,
+        "merchandise_name": "Essentials+-Colourblock-Youth-T-Shirt",
+        "price": 4949,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/NZFPj41/Essentials-Colourblock-Youth-T-Shirt.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 18,
+        "merchandise_name": "PUMA-Boy's-Joggers-Pack-of-2",
+        "price": 3299,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/6sx74Mx/PUMA-Boy-s-Joggers-Pack-of-2.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 19,
+        "merchandise_name": "PUMA-Girl's-Joggers-Pack-of-2",
+        "price": 3699,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/PYfyspR/PUMA-Girl-s-Joggers-Pack-of-2.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 20,
+        "merchandise_name": "PUMA-X-MIRACULOUS-SL-Youth-T-Shirt (1)",
+        "price": 4499,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/9tqmxHF/PUMA-X-MIRACULOUS-SL-Youth-T-Shirt-1.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 21,
+        "merchandise_name": "PUMA-X-MIRACULOUS-SL-Youth-T-Shirt",
+        "price": 5649,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/ygg25J8/PUMA-X-MIRACULOUS-SL-Youth-T-Shirt.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 22,
+        "merchandise_name": "PUMA-x-POKÉMON-Hoodie-Youth (1)",
+        "price": 4549,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/j3Xnzhh/PUMA-x-POK-MON-Hoodie-Youth-1.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 23,
+        "merchandise_name": "PUMA-x-POKÉMON-Hoodie-Youth",
+        "price": 3599,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/CmvMX3r/PUMA-x-POK-MON-Hoodie-Youth.webp"
+    },
+    {
+        "category_id": 4,
+        "sub_category_id": 10,
+        "sub_category_name": "Clothing",
+        "merchandise_id": 24,
+        "merchandise_name": "Summer-Squeeze-Youth-Pants",
+        "price": 2749,
+        "size": ["S","M","L","XL","XXL"],
+        "image": "https://i.ibb.co/sJ1SLs4/Summer-Squeeze-Youth-Pants.webp"
+    }
+]

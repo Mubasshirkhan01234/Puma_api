@@ -16,6 +16,13 @@ app.get('/',(req,res)=>{
     res.send('hii from express')
 })
 
+// Get goals list
+app.get('/goals',async (req,res)=>{
+    let query = {};
+    let collection = "goals";
+    let output = await getData(collection,query)
+    res.send(output)
+})
 
 // Get category list
 app.get('/category',async (req,res)=>{

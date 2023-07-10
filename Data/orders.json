@@ -1,0 +1,19 @@
+[
+    {
+        "order_id": 1,
+        "custome_name": "Mubasshir Khan",
+        "address": "1331/B Khati baba",
+        "city": "Jhansi",
+        "state": "Uttar Pradesh",
+        "e-mail": "mubasshirkhan0123@gmail.com",
+        "contact": 7233929479,
+        "category_id": 1,
+        "sub_category_id": 1,
+        "sub_category_name": "Caps & Beanies",
+        "merchandise_id": 1,
+        "merchandise_name": "LIGA-Unisex-Football-Cap (1)",
+        "price": 1299,
+        "image": "https://i.ibb.co/jTpjdb0/LIGA-Unisex-Football-Cap-1.webp",
+        "status": "order placed"
+    }
+]
